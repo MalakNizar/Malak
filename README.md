@@ -1,2 +1,1 @@
 # Malak
-git clone
